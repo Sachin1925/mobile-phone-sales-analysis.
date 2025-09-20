@@ -1,3 +1,4 @@
+<img width="969" height="544" alt="Screenshot 2025-08-31 132158" src="https://github.com/user-attachments/assets/dd889cf0-dafb-4c45-a1f5-1991e83d3922" />
 # mobile-phone-sales-analysis.
 Mobile Sales Dashboard – Power BI  Developed an interactive Power BI dashboard to analyze mobile sales data and track KPIs like total revenue, units sold, and top-performing brands.  Used DAX formulas for KPI calculations and implemented dynamic filters for seamless data exploration.  
 
